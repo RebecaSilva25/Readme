@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedora Front-End 🌐<br>UX/UI Designer 📲<br>Análise e Desenvolvimento de Sistemas 1/6 👩🏾‍💻<br>Apaixonada por Neurociência 🧠<br>Mundo Tech 🌐👩🏾‍💻
+Desenvolvedora Full-Stack 🌐<br>UX/UI Designer 📲<br>Análise e Desenvolvimento de Sistemas 1/6 👩🏾‍💻<br>Apaixonada por Neurociência 🧠<br>Mundo Tech 🌐👩🏾‍💻
 
 
 ## 🌐 Socials:
